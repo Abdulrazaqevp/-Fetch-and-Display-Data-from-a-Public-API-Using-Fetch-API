@@ -22,9 +22,5 @@ https://jsonplaceholder.typicode.com/users
 
 ## 📂 Project Structure
 ```
-/project-folder
-│── index.html
-│── style.css
-└── script.js
-``
-screenshots are added to this reposistory
+complete code is available in "API DATA.html"
+Screenshots are added to this reposistory "Normal run.png" & "After turn off internet!"
